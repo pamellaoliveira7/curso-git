@@ -1,4 +1,5 @@
 //comentando o fonte
 //
 //
-//ccc kajksajksjksjksajkass
+//ccc
+// Daniel não está participando adequadamente do curso.
