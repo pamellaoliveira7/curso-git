@@ -2,3 +2,4 @@
 //
 //
 //ccc
+// Daniel não está participando adequadamente do curso.
